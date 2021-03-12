@@ -1,0 +1,15 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "test web-scrapping",
+  "main": "index.js",
+  "scripts": {
+    "make": "node easy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mihir jethwa",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
